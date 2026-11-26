@@ -1,5 +1,5 @@
 // Isi dua nilai di bawah ini dengan data dari Supabase (lihat PANDUAN.md langkah 3).
 window.CFG = {
-  SUPABASE_URL: "https://ibvymhyprmxbllvqnash.supabase.co/rest/v1/",
-  SUPABASE_KEY: "sb_publishable_-b0XvowjtrGwZ5RPZdsPuQ_h8Jj7kdm"
+  SUPABASE_URL: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlidnltaHlwcm14YmxsdnFuYXNoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTU2NzkwNDYsImV4cCI6MjExMTI1NTA0Nn0.jO1QCmCcBgNjWi-dGZl9wiR5IWYzt7450ya5CyUtdCU",
+  SUPABASE_KEY: "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImlidnltaHlwcm14YmxsdnFuYXNoIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc5NTY3OTA0NiwiZXhwIjoyMTExMjU1MDQ2fQ.ZzZFq2irMmmNknU6TbdoT1PYVxEzRar0U59-jbUqMuo"
 };
