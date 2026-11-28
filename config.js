@@ -1,5 +1,11 @@
-// Isi dua nilai di bawah ini dengan data dari Supabase (lihat PANDUAN.md langkah 3).
+// Isi dua nilai SUPABASE di bawah (lihat PANDUAN.md langkah 4).
 window.CFG = {
-  SUPABASE_URL: "https://ibvymhyprmxbllvqnash.supabase.co/rest/v1/",
-  SUPABASE_KEY: "sb_publishable_-b0XvowjtrGwZ5RPZdsPuQ_h8Jj7kdm"
+  SUPABASE_URL: "GANTI-DENGAN-PROJECT-URL",
+  SUPABASE_KEY: "GANTI-DENGAN-ANON-PUBLIC-KEY",
+
+  // true  = guru cukup memilih nama (tanpa kata sandi). Pengembang tetap memakai kata sandi.
+  // false = guru memakai kata sandi pribadi (daftar pertama kali dengan kode pendaftaran).
+  TANPA_SANDI: true,
+  // Kode pendaftaran otomatis (harus sama dengan kode di database; awalnya paacep83)
+  KODE_DAFTAR: "paacep83"
 };
